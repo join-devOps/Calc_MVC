@@ -6,11 +6,7 @@
     <Application.Resources>
         <ResourceDictionary >
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Styles/ButtonStyle.xaml"/>
                 <ResourceDictionary Source="Styles/LabelStyle.xaml"/>
-                <ResourceDictionary Source="Styles/StackPanelStyle.xaml"/>
-                <ResourceDictionary Source="Styles/TextBoxStyle.xaml"/>
-                <ResourceDictionary Source="Styles/ComboBox.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>

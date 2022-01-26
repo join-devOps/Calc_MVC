@@ -14,6 +14,7 @@ namespace Calc_MVC
             InitializeComponent();
 
             ComboBox_mathsOperation.ItemsSource = Model.OperationsList;
+            ComboBox_mathsOperation.SelectedIndex = 0;
         }
 
         private void ComboBox_mathsOperation_SelectionChanged(object sender, SelectionChangedEventArgs e)
